@@ -10,4 +10,4 @@
 // import google auth provider in login.jsx and create a new provider
 // use Signinwithpopup and pass auth and provider
 // activate sign in method (fb,google,twitter)
-// 
+// change 127.0.0.1 to localhost
